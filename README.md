@@ -1,5 +1,5 @@
-# <h1 align="center">Hi 👋, I'm Monique Roberts</h1>
-<h3 align="center">MBA, Data Analytics | Certified Scrum Product Owner (PSPO I) | Cybersecurity Analyst (in progress)</h3>
+<h1 align="center">Hi 👋, I'm Monique Roberts</h1>
+<h3 align="center">MBA, Data Analytics | Certified Scrum Product Owner PSPO I | Cybersecurity Analyst in Progress</h3>
 <h3 align="center">Turning portfolio, risk, and customer data into decisions leadership can act on</h3>
 
 <p align="center">
@@ -10,12 +10,12 @@
 
 ### 🧭 About Me
 
-- 🎓 MBA, Data Analytics (May 2026), St. Thomas University — B.Sc. Biology, Florida Memorial University
+- 🎓 MBA, Data Analytics, May 2026, St. Thomas University. B.S. Biology, Florida Memorial University
 - 💼 7+ years delivering portfolio performance monitoring, KPI dashboards, and financial reconciliation for cross-functional teams
-- 💰 Focused on **financial services**: risk analysis, portfolio/budget tracking, and compliance-ready reporting
-- 🛡️ Studying to become a **Cybersecurity Analyst** — bringing a governance and risk lens to data work
-- ✅ **Certified Scrum Product Owner (PSPO I)**, **Azure Data Fundamentals (DP-900)**, working toward **PL-300 Power BI**
-- 🔍 Background in change control, risk/issue escalation, and translating stakeholder requirements into analytics solutions
+- 💰 Focused on **financial services**, including risk analysis, portfolio and budget tracking, and compliance-ready reporting
+- 🛡️ Studying to become a **Cybersecurity Analyst** and bringing a governance and risk lens to data work
+- ✅ **Certified Scrum Product Owner (PSPO I)**, **Azure Data Fundamentals (DP-900)**, and working toward **PL-300 Power BI**
+- 🔍 Background in change control, risk and issue escalation, and translating stakeholder requirements into analytics solutions
 - 📫 monique3roberts@gmail.com · (917) 742-5201
 - 🔗 [linkedin.com/in/mroberts113](https://linkedin.com/in/mroberts113)
 
@@ -52,20 +52,20 @@
 
 | Project | Description | Tools Used |
 |---|---|---|
-| **Portfolio Risk & Customer Health Dashboard** | Built a Power BI dashboard analyzing customer attrition for a card-holder portfolio — segmenting risk by card category, age, and inactivity to flag at-risk accounts for retention action. | Power BI |
-| **Customer Segmentation & Retention Dashboard** | Rebuilt the same attrition analysis in Tableau — comparing tool tradeoffs for risk segmentation and executive-ready retention reporting. | Tableau |
-| **Databricks IQ White Paper Review** | Evaluated an AI-driven analytics platform for medium-size organizations, with deep analysis of governance, AI accountability, compliance (HIPAA/PCI DSS), and cost/FinOps controls. | Research & Written Analysis |
-| **Executive Sales Dashboard (Superstore)** | Built and integrated a multi-view executive dashboard in Tableau Web Authoring — sales by category, monthly trend, and regional profit performance. | Tableau |
-| **Sports Analytics Dashboard (Power BI)** | End-to-end Power BI project: data validation, table and trend visualizations, before/after dashboard comparison for stakeholder communication. | Power BI |
+| **Portfolio Risk & Customer Health Dashboard** | Built a Power BI dashboard analyzing customer attrition for a card holder portfolio. Segmented risk by card category, age, and inactivity to flag at risk accounts for retention action. | Power BI |
+| **Customer Segmentation & Retention Dashboard** | Rebuilt the same attrition analysis in Tableau. Compared tool tradeoffs for risk segmentation and executive ready retention reporting. | Tableau |
+| **Databricks IQ White Paper Review** | Evaluated an AI driven analytics platform for medium size organizations. Included analysis of governance, AI accountability, HIPAA and PCI DSS compliance, and cost and FinOps controls. | Research & Written Analysis |
+| **Executive Sales Dashboard, Superstore** | Built and integrated a multi view executive dashboard in Tableau Web Authoring, covering sales by category, monthly trend, and regional profit performance. | Tableau |
+| **Sports Analytics Dashboard** | End to end Power BI project including data validation, table and trend visualizations, and a before and after dashboard comparison for stakeholder communication. | Power BI |
 
-*(Link each project name to its repo/workbook once uploaded — the attrition dashboards are the strongest for a risk/financial-services audience.)*
+*Project links will be added once each repository is uploaded. The attrition dashboards are the strongest for a risk and financial services audience.*
 
 ---
 
 ### 💼 Experience Highlights
 
-- **STEM Instructional Lead**, Miami-Dade County Public Schools (2018–2025) — Monitored portfolio-level performance metrics, automated KPI dashboards, and managed risk/change control across concurrent initiatives.
-- **Data & Insights Analyst**, Miami Learns (2020–2023) — Reconciled portfolio funding and forecasts, built automated reporting, and delivered portfolio-level status reports for strategic decision-making.
+- **STEM Instructional Lead**, Miami-Dade County Public Schools, 2018 to 2025. Monitored portfolio level performance metrics, automated KPI dashboards, and managed risk and change control across concurrent initiatives.
+- **Data & Insights Analyst**, Miami Learns, 2020 to 2023. Reconciled portfolio funding and forecasts, built automated reporting, and delivered portfolio level status reports for strategic decision making.
 
 ---
 
@@ -80,12 +80,11 @@
 
 ### 🎓 Education & Credentials
 
-**Master of Business Administration, Data Analytics** — St. Thomas University, Miami, FL — *May 2026*
-**Bachelor of Science, Biology** — Florida Memorial University, Miami, FL
-**Cybersecurity Analyst Program** — *in progress*
-**Certifications:** Professional Scrum Product Owner (PSPO I) · Azure Data Fundamentals (DP-900) · PL-300 Power BI *(in progress)*
+**Master of Business Administration, Data Analytics.** St. Thomas University, Miami, FL. May 2026
+**Bachelor of Science, Biology.** Florida Memorial University, Miami, FL
+**Cybersecurity Analyst Program.** In progress
+**Certifications:** Professional Scrum Product Owner (PSPO I) · Azure Data Fundamentals (DP-900) · PL-300 Power BI, in progress
 
 ---
 
 <p align="center">💡 "Where the data tells you what happened, risk analysis tells you what to do about it."</p>
-
