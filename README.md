@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monique Roberts</h1>
-<h3 align="center">MBA, Data Analytics | Certified Scrum Product Owner PSPO I | Cybersecurity Analyst in Progress</h3>
-<h3 align="center">Turning portfolio, risk, and customer data into decisions leadership can act on</h3>
+<h3 align="center">MBA, Data Analytics | Certified Scrum Product Owner PSPO I</h3>
+<h3 align="center">Data Analyst and Product Analyst, focused on financial services and education</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
@@ -12,10 +12,10 @@
 
 - 🎓 MBA, Data Analytics, May 2026, St. Thomas University. B.S. Biology, Florida Memorial University
 - 💼 7+ years delivering portfolio performance monitoring, KPI dashboards, and financial reconciliation for cross-functional teams
-- 💰 Focused on **financial services**, including risk analysis, portfolio and budget tracking, and compliance-ready reporting
-- 🛡️ Studying to become a **Cybersecurity Analyst** and bringing a governance and risk lens to data work
+- 🧑‍🏫 7 years of teaching and instructional experience, translating complex material into clear insight for a wide range of audiences, a skill that carries directly into product and user-focused analytics
+- 💰 Focused on data and product analytics roles in financial services and education
 - ✅ **Certified Scrum Product Owner (PSPO I)**, **Azure Data Fundamentals (DP-900)**, and working toward **PL-300 Power BI**
-- 🔍 Background in change control, risk and issue escalation, and translating stakeholder requirements into analytics solutions
+- 🔍 Background in KPI reporting, roadmap development, and translating stakeholder requirements into analytics solutions
 - 📫 monique3roberts@gmail.com · (917) 742-5201
 - 🔗 [linkedin.com/in/mroberts113](https://linkedin.com/in/mroberts113)
 
@@ -34,17 +34,19 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Portfolio, Risk & Governance**
-![Risk & Change Control](https://img.shields.io/badge/Risk%20%26%20Change%20Control-blue?style=for-the-badge)
-![Financial Reconciliation](https://img.shields.io/badge/Financial%20Reconciliation-darkgreen?style=for-the-badge)
-![Data Governance](https://img.shields.io/badge/Data%20Governance-black?style=for-the-badge)
-
-**Cloud & Security**
-![Azure](https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Product & Delivery**
+**Product, Portfolio & Delivery**
 ![PSPO I](https://img.shields.io/badge/PSPO%20I-Certified-00A79D?style=for-the-badge)
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-2E8B57?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-blue?style=for-the-badge)
+![Financial Reconciliation](https://img.shields.io/badge/Financial%20Reconciliation-darkgreen?style=for-the-badge)
+
+**Cloud & Data Platforms**
+![Azure](https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Web & Interactive**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ---
 
@@ -53,18 +55,22 @@
 | Project | Description | Tools Used |
 |---|---|---|
 | **Portfolio Risk & Customer Health Dashboard** | Built a Power BI dashboard analyzing customer attrition for a card holder portfolio. Segmented risk by card category, age, and inactivity to flag at risk accounts for retention action. | Power BI |
-| **Customer Segmentation & Retention Dashboard** | Rebuilt the same attrition analysis in Tableau. Compared tool tradeoffs for risk segmentation and executive ready retention reporting. | Tableau |
-| **Databricks IQ White Paper Review** | Evaluated an AI driven analytics platform for medium size organizations. Included analysis of governance, AI accountability, HIPAA and PCI DSS compliance, and cost and FinOps controls. | Research & Written Analysis |
+| **Customer Segmentation & Retention Dashboard** | Rebuilt the same attrition analysis in Tableau. Compared tool tradeoffs for segmentation and executive ready retention reporting. | Tableau |
+| **Customer Attrition Dashboard, Excel** | Built the same analysis natively in Excel using formula-driven pivot tables, so the dashboard updates automatically as the underlying data changes. | Excel |
+| **Consumer Credit Risk Dashboard** | Analyzed 1,000 loan applicants to segment credit risk by purpose, loan amount, and age. Found that bad-credit rate climbs steadily as loan size increases, a real risk-management signal, not just a report. | Excel |
+| **Premium Dining Benefit Performance Scorecard** | Built a sample monthly scorecard tracking benefit utilization, reservation volume, and Card Member satisfaction against target, modeled on how a product analytics team monitors a benefit program. | Excel |
+| **Florida Biology 1 EOC Performance Dashboard** | Interactive dashboard analyzing 13 years of real Florida Department of Education testing data, statewide, by district, and by student subgroup. Built on my Biology degree and Miami-Dade classroom experience. | HTML, Chart.js |
+| **Databricks IQ White Paper Review** | Evaluated an AI driven analytics platform for medium size organizations, including governance, accountability, and cost considerations. | Research & Written Analysis |
 | **Executive Sales Dashboard, Superstore** | Built and integrated a multi view executive dashboard in Tableau Web Authoring, covering sales by category, monthly trend, and regional profit performance. | Tableau |
 | **Sports Analytics Dashboard** | End to end Power BI project including data validation, table and trend visualizations, and a before and after dashboard comparison for stakeholder communication. | Power BI |
 
-*Project links will be added once each repository is uploaded. The attrition dashboards are the strongest for a risk and financial services audience.*
+*Project links will be added once each repository is uploaded.*
 
 ---
 
 ### 💼 Experience Highlights
 
-- **STEM Instructional Lead**, Miami-Dade County Public Schools, 2018 to 2025. Monitored portfolio level performance metrics, automated KPI dashboards, and managed risk and change control across concurrent initiatives.
+- **STEM Instructional Lead**, Miami-Dade County Public Schools, 2018 to 2025. Monitored portfolio level performance metrics, automated KPI dashboards, and translated data into clear, actionable insight for a wide range of stakeholders, the same skill that drives strong product and user analytics.
 - **Data & Insights Analyst**, Miami Learns, 2020 to 2023. Reconciled portfolio funding and forecasts, built automated reporting, and delivered portfolio level status reports for strategic decision making.
 
 ---
@@ -82,9 +88,8 @@
 
 **Master of Business Administration, Data Analytics.** St. Thomas University, Miami, FL. May 2026
 **Bachelor of Science, Biology.** Florida Memorial University, Miami, FL
-**Cybersecurity Analyst Program.** In progress
 **Certifications:** Professional Scrum Product Owner (PSPO I) · Azure Data Fundamentals (DP-900) · PL-300 Power BI, in progress
 
 ---
 
-<p align="center">💡 "Where the data tells you what happened, risk analysis tells you what to do about it."</p>
+<p align="center">💡 "Good data tells you what happened. Good teaching makes sure people actually understand it."</p>
